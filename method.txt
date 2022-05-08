@@ -3,5 +3,6 @@
 2)post
 3)delete
 4)put
-5)head
-6)options
+5)patch
+
+
