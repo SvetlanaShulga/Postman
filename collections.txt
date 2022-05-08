@@ -1,0 +1,8 @@
+Creating your first collection
+To create a new collection, you can start by creating a new request first:
+
+You can create a new request from the sidebar in Postman. Select New > HTTP Request
+Enter a request in the request builder and select Save.
+
+Create a new collection by selecting New Collection. Enter a collection name, and then select Create.
+Select Save to save the request in the new collection.
