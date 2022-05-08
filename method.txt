@@ -1,6 +1,7 @@
 
-get
-post
-delete
-put
-head
+1)get
+2)post
+3)delete
+4)put
+5)head
+6)options
