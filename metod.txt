@@ -1,4 +1,5 @@
-1. GET : The GET method is used to retrieve information from the given server using a given URI. Requests using GET should only retrieve data and should have no other effect on the data.
+=======
+3) Xiaomi p 201. GET : The GET method is used to retrieve information from the given server using a given URI. Requests using GET should only retrieve data and should have no other effect on the data.
 
 2. POST : A POST request is used to send data to the server, for example, customer information, file upload, etc. using HTML forms.
 
@@ -11,4 +12,7 @@
 6. DELETE : The DELETE method deletes the specified resource.
 
 7. OPTIONS : The OPTIONS method describes the communication options for the target resource.
+
 3)samsumg 200
+4) Xiaomi p 20
+
